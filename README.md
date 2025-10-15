@@ -65,6 +65,31 @@ It focuses on building user interfaces that are responsive, scalable, and visual
 
 - Ease of scaling, as new components can easily match the established design system.
 
+## 👥 Project Roles and Responsibilities
+
+Clearly defining roles ensures smooth collaboration, accountability, and efficient progress throughout the project lifecycle.
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager** | Oversees the entire project timeline, coordinates team activities, ensures deliverables are met, and manages communication between team members. |
+| **Frontend Developers** | Build and maintain the user interface using modern web technologies (React, HTML, CSS, JavaScript). Ensure responsiveness, accessibility, and smooth user experience. |
+| **Backend Developers** | Design and implement APIs, manage the database, handle server-side logic, and ensure secure and efficient data flow between client and server. |
+| **Designers** | Create user-centered mockups and prototypes in Figma, define color schemes and typography, and ensure UI consistency and visual appeal. |
+| **QA/Testers** | Develop and execute test cases, identify bugs, ensure the application meets functional and design requirements, and maintain quality assurance standards. |
+| **DevOps Engineers** | Manage application deployment, continuous integration (CI/CD), and server infrastructure. Monitor performance and ensure system scalability and reliability. |
+| **Product Owner** | Define and prioritize project requirements, communicate the vision, and ensure the final product aligns with user needs and business goals. |
+| **Scrum Master** | Facilitate agile ceremonies (sprints, stand-ups, retrospectives), remove blockers, and help the team maintain focus and productivity. |
+
+---
+
+### 🧩 How These Roles Contribute to Project Success
+
+- **Collaboration:** Encourages teamwork and clarity of responsibilities.  
+- **Efficiency:** Prevents overlapping work and confusion.  
+- **Accountability:** Each member understands their impact on the final product.  
+- **Quality Assurance:** Ensures the project is built, tested, and delivered to meet standards.  
+
+
 ## 📦 Installation
 
 ```bash
