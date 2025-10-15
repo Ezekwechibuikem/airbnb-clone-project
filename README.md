@@ -65,7 +65,7 @@ It focuses on building user interfaces that are responsive, scalable, and visual
 
 - Ease of scaling, as new components can easily match the established design system.
 
-## 👥 Project Roles and Responsibilities
+# 👥 Project Roles and Responsibilities
 
 Clearly defining roles ensures smooth collaboration, accountability, and efficient progress throughout the project lifecycle.
 
