@@ -90,6 +90,34 @@ Clearly defining roles ensures smooth collaboration, accountability, and efficie
 - **Quality Assurance:** Ensures the project is built, tested, and delivered to meet standards.  
 
 
+# 🧩 UI Component Patterns
+
+To ensure consistency, scalability, and maintainability, the AirBnB Clone project will use **reusable UI components**. Each component will be designed with a clear purpose, following best practices for responsive and accessible design.
+
+### Planned Components
+
+| **Component** | **Description** |
+|----------------|-----------------|
+| **Navbar** | The top navigation bar that contains the logo, search bar, and user navigation links. It will be fully responsive with a collapsible menu on smaller screens. |
+| **Property Card** | Displays a property’s image, location, price, and rating. Includes a favorite (♥) button and is designed to fit within a responsive grid layout. |
+| **Footer** | Contains site links, contact details, social media icons, and copyright information. It will remain consistent across all pages. |
+| **Search Bar** | Allows users to input location, check-in/check-out dates, and guest count. Will include filters for better property search. |
+| **Booking Form** | A clean and intuitive form that enables users to confirm their reservation and payment securely. |
+| **Image Carousel** | A slider component for viewing multiple property images. Optimized for both mobile and desktop experiences. |
+| **User Profile Menu** | Dropdown component for user account settings, bookings, and logout options. |
+
+---
+
+### 🧠 Why Component Patterns Matter
+
+- **Reusability:** Reduces code duplication and improves efficiency.  
+- **Consistency:** Ensures a unified look and feel across the entire app.  
+- **Scalability:** Makes it easier to extend features or modify layouts.  
+- **Maintainability:** Simplifies updates and bug fixes without breaking the design.
+
+---
+
+
 ## 📦 Installation
 
 ```bash
